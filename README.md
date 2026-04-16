@@ -16,10 +16,10 @@
 
 ## 👨‍💻 About Me
 - 🎓 BTech CSE student passionate about tech & innovation  
-- 💡 Love working on **AI/ML, AR/VR & Web Development**  
-- 🚀 Currently focused on **DSA + Full Stack Development**  
-- 🌱 Learning **System Design & Advanced AI**  
-- 📂 All Projects 👉 https://github.com/somu0571  
+- 💡 Interested in **AI/ML, AR/VR & Web Development**  
+- 🚀 Currently learning **DSA & Full Stack Development**  
+- 🌱 Exploring **System Design & Advanced AI**  
+- 📂 Projects 👉 https://github.com/somu0571  
 
 ---
 
@@ -44,18 +44,23 @@
 
 ## 🚀 Featured Projects
 <p align="center">
-<a href="https://github.com/somu0571">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=somu0571&repo=CleanTech&theme=tokyonight" />
+<a href="https://github.com/somu0571/CleanTech---AI-Powered-Smart-Waste-Management-System">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=somu0571&repo=CleanTech---AI-Powered-Smart-Waste-Management-System&theme=tokyonight" />
 </a>
-<a href="https://github.com/somu0571">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=somu0571&repo=your-second-project&theme=tokyonight" />
+<a href="https://github.com/somu0571/Augmented-Reality-AR-Business-Card">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=somu0571&repo=Augmented-Reality-AR-Business-Card&theme=tokyonight" />
+</a>
+</p>
+
+<p align="center">
+<a href="https://github.com/somu0571/MetaCity---A-Concept-of-Metaverse-in-Virtual-Reality-VR-">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=somu0571&repo=MetaCity---A-Concept-of-Metaverse-in-Virtual-Reality-VR-&theme=tokyonight" />
 </a>
 </p>
 
 ---
 
 ## 📊 GitHub Stats
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=somu0571&show_icons=true&theme=tokyonight" />
 </p>
@@ -74,17 +79,10 @@
 
 ---
 
-## 🐍 Contribution Snake
-<p align="center">
-  <img src="https://raw.githubusercontent.com/somu0571/somu0571/output/github-contribution-grid-snake.svg" />
-</p>
-
----
-
 ## 🔥 What I’m Working On
 - 🤖 AI-powered applications  
 - 🎮 AR/VR projects using Unity  
-- 🌐 Full Stack Web Apps  
+- 🌐 Full Stack Web Development  
 
 ---
 
