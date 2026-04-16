@@ -18,7 +18,7 @@
 - 🎓 BTech CSE student passionate about tech & innovation  
 - 💡 Interested in **AI/ML, AR/VR & Web Development**  
 - 🚀 Currently learning **DSA & Full Stack Development**  
-- 🌱 Exploring **System Design & Advanced AI**  
+- 🌱 Exploring **AI/ML & AR/VR/XR**  
 - 📂 Projects 👉 https://github.com/somu0571  
 
 ---
