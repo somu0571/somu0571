@@ -99,13 +99,13 @@
 --
 
 # GSSoC'26 Badges
-<img width="1080" height="1080" alt="gssoc-badge-week_one" src="https://github.com/user-attachments/assets/fc8054b4-4830-44a9-ba03-80775dd991f6" />
-<img width="1080" height="1080" alt="gssoc-badge-bounty_hunter" src="https://github.com/user-attachments/assets/9f1008f6-81d6-4833-afc4-b19ece13f91f" />
-<img width="1080" height="1080" alt="gssoc-badge-point_scorer" src="https://github.com/user-attachments/assets/cf9ee196-340e-4afe-bd62-a8d1bf5f41e4" />
-<img width="1080" height="1080" alt="gssoc-badge-bounty_master" src="https://github.com/user-attachments/assets/8c49ad5d-0b6d-4f58-93fb-16dbaade5763" />
-<img width="1080" height="1080" alt="gssoc-badge-rising_star" src="https://github.com/user-attachments/assets/ce2944c2-84b2-4fab-b026-4250021ad6e4" />
-<img width="1080" height="1080" alt="gssoc-badge-role_ambassador" src="https://github.com/user-attachments/assets/6251c904-82fd-48da-9caf-a95b4575f575" />
-<img width="1080" height="1080" alt="gssoc-badge-role_contributor" src="https://github.com/user-attachments/assets/1c218de5-8046-4fca-9f4d-a280d45d7d41" />
+<img width="500" height="500" alt="gssoc-badge-week_one" src="https://github.com/user-attachments/assets/fc8054b4-4830-44a9-ba03-80775dd991f6" />
+<img width="500" height="500" alt="gssoc-badge-bounty_hunter" src="https://github.com/user-attachments/assets/9f1008f6-81d6-4833-afc4-b19ece13f91f" />
+<img width="500" height="500" alt="gssoc-badge-point_scorer" src="https://github.com/user-attachments/assets/cf9ee196-340e-4afe-bd62-a8d1bf5f41e4" />
+<img width="500" height="500" alt="gssoc-badge-bounty_master" src="https://github.com/user-attachments/assets/8c49ad5d-0b6d-4f58-93fb-16dbaade5763" />
+<img width="500" height="500" alt="gssoc-badge-rising_star" src="https://github.com/user-attachments/assets/ce2944c2-84b2-4fab-b026-4250021ad6e4" />
+<img width="500" height="500" alt="gssoc-badge-role_ambassador" src="https://github.com/user-attachments/assets/6251c904-82fd-48da-9caf-a95b4575f575" />
+<img width="500" height="500" alt="gssoc-badge-role_contributor" src="https://github.com/user-attachments/assets/1c218de5-8046-4fca-9f4d-a280d45d7d41" />
 
 
 ---
