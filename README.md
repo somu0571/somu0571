@@ -1,3 +1,4 @@
+<img width="1080" height="1080" alt="gssoc-badge-power_contributor (1)" src="https://github.com/user-attachments/assets/7458ce16-d9c9-46ef-af2f-2f19c9e9c3aa" />
 # Hi 👋, I'm Somsubhra Chatterjee
 
 <h3 align="center">
@@ -251,6 +252,7 @@ https://github.com/somu0571
 <img width="130" src="https://github.com/user-attachments/assets/6251c904-82fd-48da-9caf-a95b4575f575" />
 
 <img width="130" src="https://github.com/user-attachments/assets/1c218de5-8046-4fca-9f4d-a280d45d7d41" />
+<img width="130" alt="gssoc-badge-power_contributor (1)" src="https://github.com/user-attachments/assets/90d3b661-43db-454f-86ed-058a92f82df0" />
 
 </p>
 
