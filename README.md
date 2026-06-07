@@ -49,7 +49,7 @@
 
 💡 Smart India Hackathon Internal Round Participant
 
-🔥 7 Pull Requests Merged
+🔥 8 Pull Requests Merged
 
 ---
 
@@ -154,7 +154,7 @@ https://github.com/somu0571/MetaCity---A-Concept-of-Metaverse-in-Virtual-Reality
 
 ### GSSoC'26 Highlights
 
-🔥 7+ Pull Requests Merged
+🔥 8+ Pull Requests Merged
 
 ⭐ Major Contributor to:
 - 100_days_100_web_project
