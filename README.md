@@ -48,9 +48,7 @@
 
 💡 Smart India Hackathon Internal Round Participant
 
-📚 First-Year CGPA: **8.925**
-
-🔥 Multiple Open Source Pull Requests Merged
+🔥 7 Pull Requests Merged
 
 ---
 
