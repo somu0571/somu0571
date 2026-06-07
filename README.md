@@ -1,4 +1,4 @@
-<img width="1080" height="1080" alt="gssoc-badge-power_contributor (1)" src="https://github.com/user-attachments/assets/7458ce16-d9c9-46ef-af2f-2f19c9e9c3aa" />
+
 # Hi 👋, I'm Somsubhra Chatterjee
 
 <h3 align="center">
