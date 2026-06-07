@@ -189,10 +189,11 @@ https://github.com/somu0571/MetaCity---A-Concept-of-Metaverse-in-Virtual-Reality
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏅 GitHub Achievements
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=somu0571&theme=tokyonight&row=1&column=7" />
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="120"/>
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="120"/>
 </p>
 
 ---
