@@ -168,15 +168,7 @@ https://github.com/somu0571/MetaCity---A-Concept-of-Metaverse-in-Virtual-Reality
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=somu0571&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=somu0571&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=somu0571&layout=compact&theme=tokyonight" />
 </p>
 
 <p align="center">
