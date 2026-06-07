@@ -150,23 +150,18 @@ https://github.com/somu0571/MetaCity---A-Concept-of-Metaverse-in-Virtual-Reality
 
 ---
 
-## 🌟 Open Source Contributions
+## 🚀 Open Source Impact
 
-### GSSoC'26
+### GSSoC'26 Highlights
 
-✅ Multiple Pull Requests Merged
+🔥 7+ Pull Requests Merged
 
-✅ Bug Fixes & Feature Enhancements
+⭐ Major Contributor to:
+- 100_days_100_web_project
+- DevPath
+- Story Spark AI
 
-✅ Frontend Development Contributions
-
-✅ Active Open Source Contributor
-
-### #100Days100WebProjects
-
-🚀 Building projects consistently
-
-🌐 Strengthening Full Stack skills
+🌱 Active Open Source Contributor
 
 ---
 
