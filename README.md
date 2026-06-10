@@ -240,6 +240,8 @@ https://github.com/somu0571
 
 <img width="130" src="https://github.com/user-attachments/assets/1c218de5-8046-4fca-9f4d-a280d45d7d41" />
 <img width="130" alt="gssoc-badge-power_contributor (1)" src="https://github.com/user-attachments/assets/90d3b661-43db-454f-86ed-058a92f82df0" />
+<img width="130" alt="gssoc-badge-getting_started" src="https://github.com/user-attachments/assets/31591744-9dfe-45d6-9119-c9480247657e" />
+
 
 </p>
 
