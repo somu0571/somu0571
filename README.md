@@ -226,21 +226,21 @@ https://github.com/somu0571
 
 <p align="center">
 
-<img width="130" src="https://github.com/user-attachments/assets/fc8054b4-4830-44a9-ba03-80775dd991f6" />
+<img width="200" src="https://github.com/user-attachments/assets/fc8054b4-4830-44a9-ba03-80775dd991f6" />
 
-<img width="130" src="https://github.com/user-attachments/assets/9f1008f6-81d6-4833-afc4-b19ece13f91f" />
+<img width="200" src="https://github.com/user-attachments/assets/9f1008f6-81d6-4833-afc4-b19ece13f91f" />
 
-<img width="130" src="https://github.com/user-attachments/assets/cf9ee196-340e-4afe-bd62-a8d1bf5f41e4" />
+<img width="200" src="https://github.com/user-attachments/assets/cf9ee196-340e-4afe-bd62-a8d1bf5f41e4" />
 
-<img width="130" src="https://github.com/user-attachments/assets/8c49ad5d-0b6d-4f58-93fb-16dbaade5763" />
+<img width="200" src="https://github.com/user-attachments/assets/8c49ad5d-0b6d-4f58-93fb-16dbaade5763" />
 
-<img width="130" src="https://github.com/user-attachments/assets/ce2944c2-84b2-4fab-b026-4250021ad6e4" />
+<img width="200" src="https://github.com/user-attachments/assets/ce2944c2-84b2-4fab-b026-4250021ad6e4" />
 
-<img width="130" src="https://github.com/user-attachments/assets/6251c904-82fd-48da-9caf-a95b4575f575" />
+<img width="200" src="https://github.com/user-attachments/assets/6251c904-82fd-48da-9caf-a95b4575f575" />
 
-<img width="130" src="https://github.com/user-attachments/assets/1c218de5-8046-4fca-9f4d-a280d45d7d41" />
-<img width="130" alt="gssoc-badge-power_contributor (1)" src="https://github.com/user-attachments/assets/90d3b661-43db-454f-86ed-058a92f82df0" />
-<img width="130" alt="gssoc-badge-getting_started" src="https://github.com/user-attachments/assets/31591744-9dfe-45d6-9119-c9480247657e" />
+<img width="200" src="https://github.com/user-attachments/assets/1c218de5-8046-4fca-9f4d-a280d45d7d41" />
+<img width="200" alt="gssoc-badge-power_contributor (1)" src="https://github.com/user-attachments/assets/90d3b661-43db-454f-86ed-058a92f82df0" />
+<img width="200" alt="gssoc-badge-getting_started" src="https://github.com/user-attachments/assets/31591744-9dfe-45d6-9119-c9480247657e" />
 
 
 </p>
