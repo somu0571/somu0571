@@ -49,7 +49,7 @@
 
 💡 Smart India Hackathon Internal Round Participant
 
-🔥 8 Pull Requests Merged
+🔥 9 Pull Requests Merged
 
 ---
 
@@ -67,10 +67,6 @@
 
 <a href="https://www.instagram.com/somsubhra.cjee/">
 <img src="https://skillicons.dev/icons?i=instagram" height="45"/>
-</a>
-
-<a href="https://leetcode.com/u/somu0571/">
-<img src="https://skillicons.dev/icons?i=leetcode" height="45"/>
 </a>
 
 <a href="https://github.com/somu0571">
