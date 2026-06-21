@@ -235,11 +235,15 @@ https://github.com/somu0571
 <img width="200" src="https://github.com/user-attachments/assets/6251c904-82fd-48da-9caf-a95b4575f575" />
 
 <img width="200" src="https://github.com/user-attachments/assets/1c218de5-8046-4fca-9f4d-a280d45d7d41" />
+
 <img width="200" alt="gssoc-badge-power_contributor (1)" src="https://github.com/user-attachments/assets/90d3b661-43db-454f-86ed-058a92f82df0" />
+
 <img width="200" alt="gssoc-badge-getting_started" src="https://github.com/user-attachments/assets/31591744-9dfe-45d6-9119-c9480247657e" />
-<img width="200"
+
 <img width="200" alt="gssoc-badge-consistent" src="https://github.com/user-attachments/assets/7a93deb3-c469-4e49-a06e-ccf18cec70b8" />
- alt="gssoc-badge-elite" src="https://github.com/user-attachments/assets/7e012912-bb78-4f8b-a016-862a3cb8ed23" />
+
+<img width="200" alt="gssoc-badge-elite" src="https://github.com/user-attachments/assets/88ab7a89-8426-4a6e-b69a-3c16a34a4990" />
+
 
 
 </p>
