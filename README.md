@@ -1,12 +1,11 @@
-
 # Hi 👋, I'm Somsubhra Chatterjee
 
 <h3 align="center">
-🚀 B.Tech CSE Student | Aspiring Software Engineer | AI/ML & AR/VR Enthusiast
+🚀 Software Developer | AI/ML Enthusiast | AR/VR Explorer | Open Source Contributor
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Aspiring+Software+Engineer;AI%2FML+Enthusiast;AR%2FVR+Developer;Open+Source+Contributor;Building+Projects+That+Matter" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Software+Developer;AI%2FML+Enthusiast;AR%2FVR+Developer;Open+Source+Contributor;Building+Projects+That+Matter" />
 </p>
 
 <p align="center">
@@ -17,39 +16,172 @@
 
 ## 👨‍💻 About Me
 
-🎓 Second-Year B.Tech Computer Science Student
+🎓 Second-Year B.Tech Computer Science Engineering Student
 
-💡 Passionate about:
-- Software Development
-- Artificial Intelligence & Machine Learning
-- Augmented Reality & Virtual Reality
-- Open Source Contributions
+💡 Passionate about building innovative software solutions and solving real-world problems through technology.
 
-🚀 Currently Learning:
-- Data Structures & Algorithms
-- MERN Stack Development
-- AI/ML Applications
-- Advanced JavaScript
+🔭 Currently exploring Full-Stack Development, Artificial Intelligence, and immersive AR/VR experiences.
 
-🌱 Always exploring innovative technologies and real-world problem-solving projects.
+🌱 Continuously learning:
+
+* Data Structures & Algorithms
+* MERN Stack Development
+* Machine Learning
+* Advanced JavaScript
+* System Design Fundamentals
+
+⚡ Strong believer in learning by building, contributing, and collaborating.
 
 ---
 
 ## 🏆 Achievements
 
-🥇 1st Position – VR Application Development Competition
+* 🥇 1st Position – VR Application Development Competition
+* 🎯 Finalist – National Level 24-Hour Hackathon (IBH'26)
+* 🚀 Contributor – GirlScript Summer of Code 2026
+* 🔥 Power Contributor Badge Holder
+* 💡 Smart India Hackathon Internal Round Participant
+* 📌 19+ Pull Requests Merged
+* 💯 100% Attendance Award
 
-🎯 Finalist – National Level 24-Hour Hackathon (IBH'26)
+---
 
-💯 100% Attendance Award
+## 🛠️ Tech Stack
 
-🚀 Contributor – GirlScript Summer of Code 2026
+### Languages
 
-🔥 Power Contributor Badge Holder
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,java,python,javascript,html,css" />
+</p>
 
-💡 Smart India Hackathon Internal Round Participant
+### Full Stack Development
 
-🔥 19 Pull Requests Merged
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,mysql,bootstrap" />
+</p>
+
+### AI / ML
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv" />
+</p>
+
+### AR / VR & Design
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=unity,arduino,figma,ps,ai" />
+</p>
+
+### Tools & Platforms
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+### ♻️ CleanTech – AI-Powered Smart Waste Management System
+
+* Developed an AI-powered waste classification system using Machine Learning.
+* Promotes sustainable waste management through intelligent categorization.
+* Integrated AI concepts with full-stack web technologies.
+
+🔗 Repository:
+https://github.com/somu0571/CleanTech---AI-Powered-Smart-Waste-Management-System
+
+---
+
+### 📇 AR Business Card
+
+* Interactive Augmented Reality business card experience.
+* Built using Unity and AR technologies.
+* Provides immersive and engaging digital interactions.
+
+🔗 Repository:
+https://github.com/somu0571/Augmented-Reality-AR-Business-Card
+
+---
+
+### 🌐 MetaCity – Virtual Reality Metaverse Concept
+
+* Designed an immersive virtual city experience in VR.
+* Demonstrates metaverse concepts through Unity development.
+* Focused on exploration, interaction, and smart-city visualization.
+
+🔗 Repository:
+https://github.com/somu0571/MetaCity---A-Concept-of-Metaverse-in-Virtual-Reality-VR-
+
+---
+
+## 📈 Open Source Contributions
+
+* 🚀 Active Open Source Contributor
+* 📌 19+ Pull Requests Merged
+* 🌱 Contributor in GirlScript Summer of Code 2026
+* 🔥 Power Contributor Badge Holder
+
+### Major Open Source Contributions
+
+#### 🚀 Checkora
+
+* Contributed to feature development, UI enhancements, and code quality improvements.
+* Collaborated with maintainers to improve project functionality and user experience.
+
+#### 🎟️ Eventra
+
+* Worked on frontend enhancements, bug fixes, and performance improvements.
+* Improved maintainability and usability across multiple components.
+
+#### 🌐 100_days_100_web_project
+
+* Contributed web development projects and feature improvements.
+* Assisted in issue resolution and project enhancement.
+
+#### 📚 DevPath
+
+* Worked on frontend development and user experience improvements.
+* Contributed to accessibility and interface enhancements.
+
+#### 🤖 Story Spark AI
+
+* Contributed to AI-focused features and project development.
+* Enhanced functionality through collaborative open-source contributions.
+
+---
+
+## 🚧 Currently Building
+
+* 🤖 AI-Powered Applications
+* 🌐 MERN Stack Projects
+* 🥽 Interactive AR/VR Experiences
+* 🚀 Open Source Contributions
+* 📚 DSA & Competitive Programming Skills
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=somu0571&show_icons=true&theme=tokyonight" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=somu0571&layout=compact&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=somu0571&theme=tokyonight" />
+</p>
+
+---
+
+## 💬 Ask Me About
+
+* Artificial Intelligence & Machine Learning
+* AR/VR Development
+* React & JavaScript
+* Open Source Contributions
+* Hackathons & Innovation
+* Full-Stack Development
 
 ---
 
@@ -77,179 +209,34 @@
 
 ---
 
-## 🛠️ Tech Stack
-
-### Languages
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=c,java,python,javascript,html,css" />
-</p>
-
-### Web Development
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=bootstrap,react,nodejs,express,mongodb,mysql" />
-</p>
-
-### AI / ML
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv" />
-</p>
-
-### AR / VR & Design
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=unity,arduino,figma,ps,ai" />
-</p>
-
-### Tools
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=git,github,vscode" />
-</p>
-
----
-
-## 🚀 Featured Projects
-
-### ♻️ CleanTech – AI Powered Smart Waste Management System
-
-- AI-powered waste classification system
-- Smart and sustainable waste management
-- Machine Learning + Full Stack Integration
-
-🔗 Repository:
-https://github.com/somu0571/CleanTech---AI-Powered-Smart-Waste-Management-System
-
----
-
-### 📇 AR Business Card
-
-- Interactive Augmented Reality Business Card
-- Built using Unity and AR technologies
-- Real-time digital interaction experience
-
-🔗 Repository:
-https://github.com/somu0571/Augmented-Reality-AR-Business-Card
-
----
-
-### 🌐 MetaCity – Virtual Reality Metaverse Concept
-
-- Immersive Virtual Reality Environment
-- Smart city exploration in VR
-- Unity-powered metaverse prototype
-
-🔗 Repository:
-https://github.com/somu0571/MetaCity---A-Concept-of-Metaverse-in-Virtual-Reality-VR-
-
----
-
-## 🚀 Open Source Impact
-
-### GSSoC'26 Highlights
-
-🔥 8+ Pull Requests Merged
-
-⭐ Major Contributor to:
-- 100_days_100_web_project
-- DevPath
-- Story Spark AI
-
-🌱 Active Open Source Contributor
-
----
-
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=somu0571&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=somu0571&theme=tokyonight" />
-</p>
-
----
-
-## 🏅 GitHub Achievements
-
-<p align="center">
-  <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="120"/>
-  <img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="120"/>
-</p>
-
----
-
-## 🔥 Current Focus
-
-🤖 AI-Powered Applications
-
-🌐 MERN Stack Development
-
-🎮 AR/VR Experiences
-
-📚 DSA & Competitive Programming
-
-🚀 Open Source Contributions
-
----
-
-## 💬 Ask Me About
-
-- AI & Machine Learning
-- AR/VR Development
-- Frontend Development
-- Open Source Contributions
-- Student Hackathons
-
----
-
 ## 📫 Contact Me
 
-📧 **somcha2006@gmail.com**
+📧 **Email:** [somcha2006@gmail.com](mailto:somcha2006@gmail.com)
 
-💼 LinkedIn:  
+💼 **LinkedIn:**
 https://linkedin.com/in/somsubhra-chatterjee-793714357
 
-🐙 GitHub:  
+🐙 **GitHub:**
 https://github.com/somu0571
 
 ---
 
-## 🏅 GSSoC'26 Badges
+## 🤝 Let's Collaborate
 
-<p align="center">
+I'm always excited to collaborate on:
 
-<img width="200" src="https://github.com/user-attachments/assets/fc8054b4-4830-44a9-ba03-80775dd991f6" />
+* Open Source Projects
+* AI/ML Applications
+* Full-Stack Web Development
+* AR/VR Experiences
+* Student Innovation Projects
+* Hackathons & Technical Communities
 
-<img width="200" src="https://github.com/user-attachments/assets/9f1008f6-81d6-4833-afc4-b19ece13f91f" />
-
-<img width="200" src="https://github.com/user-attachments/assets/cf9ee196-340e-4afe-bd62-a8d1bf5f41e4" />
-
-<img width="200" src="https://github.com/user-attachments/assets/8c49ad5d-0b6d-4f58-93fb-16dbaade5763" />
-
-<img width="200" src="https://github.com/user-attachments/assets/ce2944c2-84b2-4fab-b026-4250021ad6e4" />
-
-<img width="200" src="https://github.com/user-attachments/assets/6251c904-82fd-48da-9caf-a95b4575f575" />
-
-<img width="200" src="https://github.com/user-attachments/assets/1c218de5-8046-4fca-9f4d-a280d45d7d41" />
-
-<img width="200" alt="gssoc-badge-power_contributor (1)" src="https://github.com/user-attachments/assets/90d3b661-43db-454f-86ed-058a92f82df0" />
-
-<img width="200" alt="gssoc-badge-getting_started" src="https://github.com/user-attachments/assets/31591744-9dfe-45d6-9119-c9480247657e" />
-
-<img width="200" alt="gssoc-badge-consistent" src="https://github.com/user-attachments/assets/7a93deb3-c469-4e49-a06e-ccf18cec70b8" />
-
-<img width="200" alt="gssoc-badge-elite" src="https://github.com/user-attachments/assets/88ab7a89-8426-4a6e-b69a-3c16a34a4990" />
-
-
-
-</p>
+Feel free to connect and build something impactful together!
 
 ---
 
 <p align="center">
-⭐ <b>Code. Create. Innovate. Repeat.</b>
+  ⭐ <b>Code. Create. Innovate. Repeat.</b>
 </p>
+
