@@ -243,6 +243,6 @@ Feel free to connect and build something impactful together!
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=somu0571&theme=tokyo-night" />
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/somu0571/somu0571/output/github-contribution-grid-snake-dark.svg">
+<img src="https://raw.githubusercontent.com/somu0571/somu0571/output/github-contribution-grid-snake-light.svg">
 </p>
 
